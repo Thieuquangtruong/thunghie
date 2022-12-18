@@ -1,0 +1,49 @@
+git init : dua len 1 file khi chua co du an( khoi tao du an)
+git add . : them sua xoa,...
+git commit -m "messger" : gải thích nơi thêm nội dung
+git push origin main/master(tuy noi lam): push len github (trong đó origin là tên)
+git remote -v : kiem tra noi dieu khien
+git add remote origin link: de them remote co tên origin( co thể đổi tên khác dc)
+git clone link : dowload github ve
+nếu bạn đang có 1 địa chỉ remote mà muốn thêm hoặc xóa thì :
+xóa : git remote remove tênđặt(vd: origin2,...)
+thêm: git remote add tên(vd:origin2) link(vd:www.deptraiqua.com)
+
+giai thich
+:root{ red} là la thành gốc trong văn bản và có thể thay màu trong html ( lưu ý là <html>)
+
+href='#home' chuc nang la click vo về home(ghi trong html á)
+
+font-family là thay đổi phông chữ
+
+outline là vẽ viền bên ngoài phan tử
+
+text-decoration là trang trí ( vd : gạch chân phần tử)
+
+text-transform là đổi kiểu viết hoa,thường,nghiêng
+
+transition là thay đổi thuộc tính (kích cỡ,...) 1 cách suôn sẻ trong 1 thời gian nhất định
+
+@keyframes là lenh hành động lặp đi lăp lại, tạo hiệu ứng ảnh động
+
+::selection làm cho khi bôi đen chữ sẽ có nền màu mà mình muốn
+
+overflow-x là điều chỉnh độ tràn nội dung (vi du : https://www.w3schools.com/cssref/css3_pr_overflow-x.php)
+
+scroll-behavior làm cuộn kéo lướt mượt hơn khi trải nghiệm wed
+scroll-padding-top là chỉnh tốc độ cuộn
+
+text-align sắp xếp vị trí văn bản ( vd center thi là để 1 đoạn văn bản ở giữa)
+
+z-index hoi kho giai thich kieu sap xếp thứ tự (vd:https://www.w3schools.com/cssref/playdemo.php?filename=playcss_z-index)
+
+justify-content căn chỉnh linh hoat
+
+cursor là hiên thị con con trỏ chuột thay đổi khi con chuôt trỏ vào cái đó
+
+transform hoat anh hien thi (2D, 3D)
+
+
+
+
+
