@@ -1,7 +1,10 @@
 git init : dua len 1 file khi chua co du an( khoi tao du an)
 git add . : them sua xoa,...
 git commit -m "messger" : gải thích nơi thêm nội dung
-git push origin main/master(tuy noi lam): push len github (trong đó origin là tên)
+git push origin main/master(ghi main hoac master )tuy noi lam): push len github (trong đó origin là tên)
+vi du: git push origin main
+git push orgin master
+
 git remote -v : kiem tra noi dieu khien
 git add remote origin link: de them remote co tên origin( co thể đổi tên khác dc)
 git clone link : dowload github ve
